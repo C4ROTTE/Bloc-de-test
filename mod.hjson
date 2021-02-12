@@ -1,0 +1,7 @@
+name: "Bloc de test"
+displayName: "Pour test le mod"
+author: C4ROTTE
+description: "Bloc simple sans intéret"
+version: "1.0"
+minGameVersion: "124.1"
+hidden: false

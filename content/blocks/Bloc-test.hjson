@@ -1,1 +1,10 @@
-
+name: Bloc test
+description: Bloc inutile en jeu
+type: Wall
+health: 1000
+size: 2
+requirements: [
+    copper/100
+  ]
+category: defense
+parent: copper-wall
